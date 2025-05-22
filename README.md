@@ -10,7 +10,7 @@
 
  <img align="right" height="190" src="https://cdn.pixabay.com/animation/2025/01/15/03/39/03-39-00-42_512.gif">
 
- Sou um Entusiasta da area de Tecnologia, e curso Redes de Computadores, estou em transicao de carreira.
+ Sou um Estudante da area de Tecnologia, e curso Redes de Computadores, e estou em transição de carreira.
 
  <br>
  <br>
